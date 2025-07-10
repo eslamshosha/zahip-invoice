@@ -106,7 +106,7 @@ a {
   flex-direction: column;
   justify-content: space-between;
   gap: 40px;
-  min-height: calc(100vh - 60px);
+  min-height: calc(100vh - 140px);
 }
 .section-deader {
   display: flex;
